@@ -14,17 +14,17 @@ export const metadata: Metadata = {
   openGraph: {
     title: "E-WasteWise",
     description: "Informational website about e-waste management and recycling",
-    url: "https://ewastewise.vercel.app", // Replace with your actual URL
+    url: "https://e-wastewise.vercel.app", // Replace with your actual URL
     siteName: "E-WasteWise",
     images: [
       {
-        url: "https://ewastewise.vercel.app/ewastewise.png", // Replace with your actual image URL
+        url: "https://e-wastewise.vercel.app/ewastewise.png", // Replace with your actual image URL
         width: 1200,
         height: 630,
         alt: "E-WasteWise Open Graph Image",
       },
     ],
-    locale: "en_US",
+    locale: "en_PH",
     type: "website",
   },
 };
